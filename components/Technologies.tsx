@@ -19,8 +19,8 @@ import MaterialUIlogo from "@/public/materialui.png";
 import VSCodeLogo from "@/public/vscode.png";
 import GitHubLogo from "@/public/git.svg";
 import GitLogo from "@/public/git.png";
-import ChatGPTLogo from "@/public/chatgpt.jpg";
-import Figmalogo from "@/public/figma.png"; // Reusing ChatGPTLogo for Figma
+import ChatGPTLogo from "@/public/chatgpt.png";
+import Figmalogo from "@/public/figma.png";
 
 const skills = [
   {
